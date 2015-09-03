@@ -11,18 +11,18 @@ time: '2008-12-15T14:07:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:44:13.086Z'
-dateModified: '2015-09-03T10:40:39.599Z'
+datePublished: '2015-09-03T10:49:50.910Z'
+dateModified: '2015-09-03T10:47:33.491Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-03-why-is-it-so-hard.md
+published: true
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-why-is-it-so-hard.md
-published: true
 url: why-is-it-so-hard/index.html
 _type: Article
 _context: 'http://schema.org'
@@ -40,6 +40,6 @@ the whole telephone network?
 
 Just tell me: Why can't there be a usable PBX with the features I want?
 
-So what I need here is: TLS, SRTP, conferencing, voicemail, dialplans.
+So what I need here is: TLS, SRTP, conferencing, voicemail, dial plans.
 The problem is that what I really want is everything with TLS and SRTP 
-signalling. Why is it so hard?
+signaling. Why is it so hard?
