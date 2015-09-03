@@ -11,8 +11,8 @@ time: '2008-05-06T10:32:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:50.421Z'
-dateModified: '2015-09-03T10:47:08.640Z'
+datePublished: '2015-09-03T11:03:14.349Z'
+dateModified: '2015-09-03T10:49:50.421Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-03-organizing-thoughs-openly-part-1-notes.md
