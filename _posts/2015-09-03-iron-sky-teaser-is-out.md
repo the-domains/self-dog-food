@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:5c75dbbe-fc4b-4db2-9872-8cc8d2a7d5d6'
 inLanguage: null
 starred: false
 keywords: []
-description: 'A teaser trailer for Iron Sky, the next film from the makers of Star Wreck, is out at [ironsky.net][1]. I loved it! The best par'
+description: ''
 name: iron-sky-teaser-is-out
 layout: post
 title: 'Iron Sky teaser is out!'
@@ -11,18 +11,18 @@ time: '2008-05-07T11:09:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:44:13.105Z'
-dateModified: '2015-09-03T10:42:16.693Z'
+datePublished: '2015-09-03T10:49:50.681Z'
+dateModified: '2015-09-03T10:48:17.924Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-03-iron-sky-teaser-is-out.md
+published: true
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-iron-sky-teaser-is-out.md
-published: true
 url: iron-sky-teaser-is-out/index.html
 _type: Article
 _context: 'http://schema.org'
