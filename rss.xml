@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:50:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A short report]]></title>
+            <description><![CDATA[<h1>A short report</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/a-short-report/index.html</link>
+            <guid isPermaLink="false">6075c4c9-61f0-4aab-9d74-6c376ea0f335</guid>
+            <pubDate>Thu, 03 Sep 2015 10:49:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Comparing GPS software]]></title>
             <description><![CDATA[<article><h1>Comparing GPS software</h1><p>I had to drive to the west coast of Finland through a snowy, um,Finland. The weather was lovely as ever though I didn&#39;t see </p></article>]]></description>
@@ -72,15 +79,6 @@ I have recently been introduced to a bunch of software for mobile
 platforms. The reason is simply that I upgraded both my persona</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/on-the-go/index.html</link>
             <guid isPermaLink="false">db36f2ea-1974-4b70-af3c-6dae28cd2ef9</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outsourcing music]]></title>
-            <description><![CDATA[<article><h1>Outsourcing music</h1><p>{% include dogfood/title.md %}
-I am having a day off from everything. These are the days I want to
-listen to music all the time and take it easy. Yesterday I ne</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/outsourcing-music/index.html</link>
-            <guid isPermaLink="false">7a07fb95-8d92-4b81-a648-754e0e163d63</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
         </item>
     </channel>
