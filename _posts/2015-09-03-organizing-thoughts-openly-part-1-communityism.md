@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:1fcf6d8f-69eb-44c9-86a8-96b3cb45f4ac'
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is part one of a series of posts called &quot;Organizing ThoughtsOpenly&quot;. In this series I search for solutions and so'
+description: ''
 name: organizing-thoughts-openly-part-1
 layout: post
 title: 'Organizing Thoughts Openly (part 1): Communityism'
@@ -11,18 +11,18 @@ time: '2008-04-25T08:01:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:51.064Z'
-dateModified: '2015-09-03T10:44:13.060Z'
+datePublished: '2015-09-03T11:03:15.600Z'
+dateModified: '2015-09-03T11:02:45.851Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-03-organizing-thoughts-openly-part-1-communityism.md
+published: true
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-organizing-thoughts-openly-part-1-communityism.md
-published: true
 url: organizing-thoughts-openly-part-1-communityism/index.html
 _type: Article
 _context: 'http://schema.org'
