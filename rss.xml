@@ -5,8 +5,17 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:37:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Encrypting Ubuntu someday, somehow]]></title>
+            <description><![CDATA[<article><h1>Encrypting Ubuntu someday, somehow</h1><p>{% include dogfood/title.md %}
+I have once again installed my laptop at work. I don&#39;t usually report
+such incidents. This time it was way too easy to not to</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/encrypting-ubuntu-someday-somehow/index.html</link>
+            <guid isPermaLink="false">351d575d-f03e-41bb-820e-7b92cda9974e</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two steps forward and only one back]]></title>
             <description><![CDATA[<article><h1>Two steps forward and only one back</h1><p>{% include dogfood/title.md %}
@@ -92,16 +101,6 @@ words.
 I don&#3</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/idontcare/index.html</link>
             <guid isPermaLink="false">1a3e668c-ba1d-4e6c-8261-99480eb2f0f4</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One Lovely PC]]></title>
-            <description><![CDATA[<article><h1>One Lovely PC</h1><p>{% include dogfood/title.md %}
-As I mentioned yesterday, I had the privilege to be in the same room
-with an OLPC device. I also had the privilege to
-touch one. </p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/one-lovely-pc/index.html</link>
-            <guid isPermaLink="false">35b3bdb7-98c3-42e3-9c9e-709fd610843e</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
         </item>
     </channel>
