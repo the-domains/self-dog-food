@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:381c0843-15e3-43d1-9deb-5152109236b4'
 inLanguage: null
 starred: false
 keywords: []
-description: "I thought I'd never go for a meme in this blog, but...herttoniemi:ferrix ~2 $ history|awk '{a[$2]++ } END{for(i in a){print"
+description: ''
 name: going-with-flow
 layout: post
 title: Going with the flow
@@ -11,18 +11,18 @@ time: '2008-05-12T08:18:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:51.034Z'
-dateModified: '2015-09-03T10:44:12.433Z'
+datePublished: '2015-09-03T11:03:14.827Z'
+dateModified: '2015-09-03T11:02:07.779Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-03-going-with-the-flow.md
+published: true
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-going-with-the-flow.md
-published: true
 url: going-with-the-flow/index.html
 _type: Article
 _context: 'http://schema.org'
