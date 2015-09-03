@@ -3,10 +3,7 @@ isBasedOnUrl: 'content://x-text:b85c0668-8f34-4927-8071-eee264e5158b'
 inLanguage: null
 starred: false
 keywords: []
-description: |
-  {% include dogfood/title.md %}
-  As I mentioned in my earlier post, I fought a battle with Compiz
-  today. I think some notices might be useful for others as well.
+description: ''
 name: compiz-tips
 layout: post
 title: Compiz tips
@@ -14,16 +11,18 @@ time: '2007-09-26T21:43:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:14.478Z'
-dateModified: '2015-09-03T10:33:26.596Z'
+datePublished: '2015-09-03T10:49:51.204Z'
+dateModified: '2015-09-03T10:48:07.814Z'
+sourcePath: _posts/2015-09-03-compiz-tips.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-compiz-tips.md
-published: true
 url: compiz-tips/index.html
 _type: Article
 _context: 'http://schema.org'
