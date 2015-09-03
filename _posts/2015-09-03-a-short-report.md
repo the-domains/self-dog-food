@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:ba1bc146-d200-4406-8c70-e2d1c7cba42c'
 inLanguage: null
 starred: false
 keywords: []
-description: "{% include dogfood/title.md %}\nI have been carried away from my hobbies and everything else because \nof the work that also happens to be my hobby. There is a lo"
+description: ''
 name: short-report
 layout: post
 title: A short report
@@ -11,16 +11,18 @@ time: '2007-09-26T15:37:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:13.696Z'
-dateModified: '2015-09-03T10:32:52.284Z'
+datePublished: '2015-09-03T10:49:51.060Z'
+dateModified: '2015-09-03T10:48:58.508Z'
+sourcePath: _posts/2015-09-03-a-short-report.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-a-short-report.md
-published: true
 url: a-short-report/index.html
 _type: Article
 _context: 'http://schema.org'
