@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:dafd4ab5-5765-48b3-a0ed-019b86455914'
 inLanguage: null
 starred: false
 keywords: []
-description: "{% include dogfood/title.md %}\nToday we started with a plenary session. I missed the first \npresentation and arrived in the middle of the presentation by\nZak Gr"
+description: ''
 name: openmind-and-mindtreck-day-2
 layout: post
 title: 'Openmind and MindTrek, day 2'
@@ -11,16 +11,18 @@ date: '2007-10-03T12:46:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:14.075Z'
-dateModified: '2015-09-03T10:33:08.239Z'
+datePublished: '2015-09-03T10:49:51.217Z'
+dateModified: '2015-09-03T10:48:36.484Z'
+sourcePath: _posts/2015-09-03-openmind-and-mindtrek-day-2.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-openmind-and-mindtrek-day-2.md
-published: true
 url: openmind-and-mindtrek-day-2/index.html
 _type: Article
 _context: 'http://schema.org'
