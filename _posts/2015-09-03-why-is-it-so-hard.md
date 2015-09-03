@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:59f0bb29-9601-4c8a-81ec-f4657d1f5b02'
 inLanguage: null
 starred: false
 keywords: []
-description: I have been working with some VoIP solutions. I have been browsing my options and I always get into trouble with it. One solutio
+description: ''
 name: why-is-it-so-hard
 layout: post
 title: Why is it so hard?
@@ -11,8 +11,8 @@ time: '2008-12-15T14:07:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:50.910Z'
-dateModified: '2015-09-03T10:47:33.491Z'
+datePublished: '2015-09-03T11:03:14.846Z'
+dateModified: '2015-09-03T11:01:33.625Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-03-why-is-it-so-hard.md
