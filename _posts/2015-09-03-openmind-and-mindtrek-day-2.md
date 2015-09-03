@@ -11,8 +11,8 @@ date: '2007-10-03T12:46:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:51.217Z'
-dateModified: '2015-09-03T10:48:36.484Z'
+datePublished: '2015-09-03T11:03:15.843Z'
+dateModified: '2015-09-03T10:49:51.217Z'
 sourcePath: _posts/2015-09-03-openmind-and-mindtrek-day-2.md
 published: true
 tags:
