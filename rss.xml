@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:45:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Comparing GPS software]]></title>
+            <description><![CDATA[<article><h1>Comparing GPS software</h1><p>I had to drive to the west coast of Finland through a snowy, um,Finland. The weather was lovely as ever though I didn&#39;t see </p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/comparing-gps-software/index.html</link>
+            <guid isPermaLink="false">7ff1c0e9-b81a-49f4-8d5a-e7e14e20866e</guid>
+            <pubDate>Thu, 03 Sep 2015 10:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iron Sky teaser is out!]]></title>
             <description><![CDATA[<article><h1>Iron Sky teaser is out!</h1><p>A teaser trailer for Iron Sky, the next film from the makers of Star Wreck, is out at [ironsky.net][1]. I loved it! The best par</p></article>]]></description>
@@ -75,15 +82,6 @@ listen to music all the time and take it easy. Yesterday I ne</p></article>]]></
             <link>https://thegrid.ai/self-dog-food/outsourcing-music/index.html</link>
             <guid isPermaLink="false">7a07fb95-8d92-4b81-a648-754e0e163d63</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Encrypting Ubuntu someday, somehow]]></title>
-            <description><![CDATA[<article><h1>Encrypting Ubuntu someday, somehow</h1><p>{% include dogfood/title.md %}
-I have once again installed my laptop at work. I don&#39;t usually report
-such incidents. This time it was way too easy to not to</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/encrypting-ubuntu-someday-somehow/index.html</link>
-            <guid isPermaLink="false">351d575d-f03e-41bb-820e-7b92cda9974e</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
