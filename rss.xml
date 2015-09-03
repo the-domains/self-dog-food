@@ -5,8 +5,17 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:37:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Building a network]]></title>
+            <description><![CDATA[<article><h1>Building a network</h1><p>{% include dogfood/title.md %}
+A RAID5 partition went haywire and I lost 1.2TB of data. I don&#39;t feel
+as bad as I did last year when I lost one tenth of the </p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/building-a-network/index.html</link>
+            <guid isPermaLink="false">8c665943-b6ff-4eb8-87db-0da2f3b92d6e</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On the go]]></title>
             <description><![CDATA[<article><h1>On the go</h1><p>{% include dogfood/title.md %}
@@ -89,16 +98,6 @@ As mentioned earlier, I installed Gutsy Goatse on my Dell D630
 laptop. I was a bit bothered with the soundcard not working anymo</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/first-aid-for-dell-d630-running-gutsy/index.html</link>
             <guid isPermaLink="false">93c9a75d-e77d-4642-b8f6-eba1fa49923e</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compiz tips]]></title>
-            <description><![CDATA[<article><h1>Compiz tips</h1><p>{% include dogfood/title.md %}
-As I mentioned in my earlier post, I fought a battle with Compiz
-today. I think some notices might be useful for others as well.
-</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/compiz-tips/index.html</link>
-            <guid isPermaLink="false">4f19289b-5fb9-485f-a812-ab0de594c813</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
         </item>
     </channel>
