@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:94d28ab7-62fe-4aa6-b230-33e79cae2b3f'
 inLanguage: null
 starred: false
 keywords: []
-description: "{% include dogfood/title.md %}\nI have been having a real vacation for a change. I have tons of thing \nto do and some of them I have had to drop from my schedule"
+description: ''
 name: two-steps-forward-and-only-one-back
 layout: post
 title: Two steps forward and only one back
@@ -11,16 +11,18 @@ time: '2007-06-27T09:22:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:15.377Z'
-dateModified: '2015-09-03T10:35:11.619Z'
+datePublished: '2015-09-03T11:03:16.942Z'
+dateModified: '2015-09-03T10:58:51.789Z'
+sourcePath: _posts/2015-09-03-two-steps-forward-and-only-one-back.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-two-steps-forward-and-only-one-back.md
-published: true
 url: two-steps-forward-and-only-one-back/index.html
 _type: Article
 _context: 'http://schema.org'
