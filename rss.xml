@@ -5,8 +5,19 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:36:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iDontCare]]></title>
+            <description><![CDATA[<article><h1>iDontCare</h1><p>{% include dogfood/title.md %}
+I already mentioned iPhone once on this site. I decided to mention it 
+for the last time after marking Mark&#39;s
+words.
+I don&#3</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/idontcare/index.html</link>
+            <guid isPermaLink="false">1a3e668c-ba1d-4e6c-8261-99480eb2f0f4</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One Lovely PC]]></title>
             <description><![CDATA[<article><h1>One Lovely PC</h1><p>{% include dogfood/title.md %}
