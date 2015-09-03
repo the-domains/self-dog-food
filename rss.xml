@@ -5,8 +5,20 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:37:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FUTURE 1.2]]></title>
+            <description><![CDATA[<article><h1>FUTURE 1.2</h1><p>{% include dogfood/title.md %}
+I didn&#39;t have the heart not to fix a known bug. Here you go.
+CHANGES
+
+1.1 to 1.2
+- Allow file systems other than JFS for orig</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/future-12/index.html</link>
+            <guid isPermaLink="false">2de5f880-a7dc-4735-9b18-a97d4854c142</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First aid for Dell D630 running Gutsy]]></title>
             <description><![CDATA[<article><h1>First aid for Dell D630 running Gutsy</h1><p>{% include dogfood/title.md %}
