@@ -5,7 +5,7 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:50:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Comparing GPS software]]></title>
@@ -47,7 +47,7 @@
             <description><![CDATA[<article><h1>Going with the flow</h1><p>I thought I'd never go for a meme in this blog, but...herttoniemi:ferrix ~2 $ history|awk '{a[$2]++ } END{for(i in a){print</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/going-with-the-flow/index.html</link>
             <guid isPermaLink="false">a891cd23-a455-41a0-943a-2deb23060cda</guid>
-            <pubDate>Thu, 03 Sep 2015 10:44:12 GMT</pubDate>
+            <pubDate>Thu, 03 Sep 2015 10:49:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just surfin']]></title>
