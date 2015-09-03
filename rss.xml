@@ -5,8 +5,17 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:37:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Outsourcing music]]></title>
+            <description><![CDATA[<article><h1>Outsourcing music</h1><p>{% include dogfood/title.md %}
+I am having a day off from everything. These are the days I want to
+listen to music all the time and take it easy. Yesterday I ne</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/outsourcing-music/index.html</link>
+            <guid isPermaLink="false">7a07fb95-8d92-4b81-a648-754e0e163d63</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Encrypting Ubuntu someday, somehow]]></title>
             <description><![CDATA[<article><h1>Encrypting Ubuntu someday, somehow</h1><p>{% include dogfood/title.md %}
@@ -90,17 +99,6 @@ I noticed that the rc1 of the package works much better with the Dell
 Latitude D630 laptop than the rc3. I packaged that during </p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/that-was-utterly-unuseful-sorry/index.html</link>
             <guid isPermaLink="false">099f88cd-b7cb-42e2-ac3a-3994811a408d</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iDontCare]]></title>
-            <description><![CDATA[<article><h1>iDontCare</h1><p>{% include dogfood/title.md %}
-I already mentioned iPhone once on this site. I decided to mention it 
-for the last time after marking Mark&#39;s
-words.
-I don&#3</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/idontcare/index.html</link>
-            <guid isPermaLink="false">1a3e668c-ba1d-4e6c-8261-99480eb2f0f4</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
         </item>
     </channel>
