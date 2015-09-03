@@ -8,6 +8,13 @@
         <lastBuildDate>Thu, 03 Sep 2015 10:50:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Compiz tips]]></title>
+            <description><![CDATA[<h1>Compiz tips</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/compiz-tips/index.html</link>
+            <guid isPermaLink="false">4f19289b-5fb9-485f-a812-ab0de594c813</guid>
+            <pubDate>Thu, 03 Sep 2015 10:49:51 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[A short report]]></title>
             <description><![CDATA[<h1>A short report</h1>]]></description>
             <link>https://thegrid.ai/self-dog-food/a-short-report/index.html</link>
@@ -70,15 +77,6 @@ A RAID5 partition went haywire and I lost 1.2TB of data. I don&#39;t feel
 as bad as I did last year when I lost one tenth of the </p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/building-a-network/index.html</link>
             <guid isPermaLink="false">8c665943-b6ff-4eb8-87db-0da2f3b92d6e</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the go]]></title>
-            <description><![CDATA[<article><h1>On the go</h1><p>{% include dogfood/title.md %}
-I have recently been introduced to a bunch of software for mobile
-platforms. The reason is simply that I upgraded both my persona</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/on-the-go/index.html</link>
-            <guid isPermaLink="false">db36f2ea-1974-4b70-af3c-6dae28cd2ef9</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
         </item>
     </channel>
