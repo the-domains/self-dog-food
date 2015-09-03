@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 11:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 11:04:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One Lovely PC]]></title>
+            <description><![CDATA[<article><h1>One Lovely PC</h1><p>A look at the OLPC</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/one-lovely-pc/index.html</link>
+            <guid isPermaLink="false">35b3bdb7-98c3-42e3-9c9e-709fd610843e</guid>
+            <pubDate>Thu, 03 Sep 2015 11:03:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Openmind and MindTrek, day 1]]></title>
             <description><![CDATA[<h1>Openmind and MindTrek, day 1</h1>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/self-dog-food/why-is-it-so-hard/index.html</link>
             <guid isPermaLink="false">32238efc-6ce7-4324-9901-44156025558e</guid>
             <pubDate>Thu, 03 Sep 2015 11:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Organizing Thoughts Openly (part 1): Communityism]]></title>
-            <description><![CDATA[<h1>Organizing Thoughts Openly (part 1): Communityism</h1>]]></description>
-            <link>https://thegrid.ai/self-dog-food/organizing-thoughts-openly-part-1-communityism/index.html</link>
-            <guid isPermaLink="false">9dab5d50-711b-4f3e-9ad7-0f650fad2343</guid>
-            <pubDate>Thu, 03 Sep 2015 11:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
