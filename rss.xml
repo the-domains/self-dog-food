@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 11:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 11:04:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FUTURE 1.2]]></title>
+            <description><![CDATA[<h1>FUTURE 1.2</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/future-12/index.html</link>
+            <guid isPermaLink="false">2de5f880-a7dc-4735-9b18-a97d4854c142</guid>
+            <pubDate>Thu, 03 Sep 2015 11:03:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[That was utterly unuseful, sorry]]></title>
             <description><![CDATA[<h1>That was utterly unuseful, sorry</h1>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/self-dog-food/a-short-report/index.html</link>
             <guid isPermaLink="false">6075c4c9-61f0-4aab-9d74-6c376ea0f335</guid>
             <pubDate>Thu, 03 Sep 2015 11:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comparing GPS software]]></title>
-            <description><![CDATA[<h1>Comparing GPS software</h1>]]></description>
-            <link>https://thegrid.ai/self-dog-food/comparing-gps-software/index.html</link>
-            <guid isPermaLink="false">7ff1c0e9-b81a-49f4-8d5a-e7e14e20866e</guid>
-            <pubDate>Thu, 03 Sep 2015 11:03:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
