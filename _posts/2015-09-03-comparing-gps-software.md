@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:be3481a3-6785-42de-a916-959286f9a720'
 inLanguage: null
 starred: false
 keywords: []
-description: 'I had to drive to the west coast of Finland through a snowy, um,Finland. The weather was lovely as ever though I didn&#39;t see '
+description: ''
 name: comparing-gps-software
 layout: post
 title: Comparing GPS software
@@ -11,18 +11,18 @@ time: '2008-11-26T15:38:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:50.929Z'
-dateModified: '2015-09-03T10:44:13.380Z'
+datePublished: '2015-09-03T11:03:14.751Z'
+dateModified: '2015-09-03T11:01:18.358Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-03-comparing-gps-software.md
+published: true
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-comparing-gps-software.md
-published: true
 url: comparing-gps-software/index.html
 _type: Article
 _context: 'http://schema.org'
