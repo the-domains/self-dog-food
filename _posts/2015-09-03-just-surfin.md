@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:ef255f5e-c4d3-4856-8859-64a89b2ba2b2'
 inLanguage: null
 starred: false
 keywords: []
-description: While browsing the web to gather some ideas for my series of posts Ihave come across several interesting critters. There seem to
+description: ''
 name: just-surfin
 layout: post
 title: "Just surfin'"
@@ -11,18 +11,18 @@ time: '2008-05-06T11:12:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:51.006Z'
-dateModified: '2015-09-03T10:44:12.423Z'
+datePublished: '2015-09-03T11:03:14.975Z'
+dateModified: '2015-09-03T11:02:34.271Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-03-just-surfin.md
+published: true
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-just-surfin.md
-published: true
 url: just-surfin/index.html
 _type: Article
 _context: 'http://schema.org'
