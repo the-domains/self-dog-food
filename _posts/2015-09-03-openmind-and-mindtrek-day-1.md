@@ -3,11 +3,7 @@ isBasedOnUrl: 'content://x-text:9ddbb799-b809-4356-9a13-9b30745afeaa'
 inLanguage: null
 starred: false
 keywords: []
-description: |-
-  {% include dogfood/title.md %}
-  I am currently taking part in MindTrek
-  which is a which is sort of a high tech conference arranged yearly
-  in Tampere. The whole o
+description: ''
 name: openmind-and-mindtrek
 layout: post
 title: 'Openmind and MindTrek, day 1'
@@ -15,16 +11,18 @@ date: '2007-10-03T08:59:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:13.060Z'
-dateModified: '2015-09-03T10:32:41.688Z'
+datePublished: '2015-09-03T11:03:15.651Z'
+dateModified: '2015-09-03T10:52:33.627Z'
+sourcePath: _posts/2015-09-03-openmind-and-mindtrek-day-1.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-openmind-and-mindtrek-day-1.md
-published: true
 url: openmind-and-mindtrek-day-1/index.html
 _type: Article
 _context: 'http://schema.org'
