@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:50:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Openmind and MindTrek, day 2]]></title>
+            <description><![CDATA[<h1>Openmind and MindTrek, day 2</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/openmind-and-mindtrek-day-2/index.html</link>
+            <guid isPermaLink="false">76075f4b-e47b-4b79-bbd5-4656295200da</guid>
+            <pubDate>Thu, 03 Sep 2015 10:49:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Compiz tips]]></title>
             <description><![CDATA[<h1>Compiz tips</h1>]]></description>
@@ -69,15 +76,6 @@
             <link>https://thegrid.ai/self-dog-food/just-surfin/index.html</link>
             <guid isPermaLink="false">2d5df63d-72f7-4575-8405-d02d9b923ec5</guid>
             <pubDate>Thu, 03 Sep 2015 10:49:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building a network]]></title>
-            <description><![CDATA[<article><h1>Building a network</h1><p>{% include dogfood/title.md %}
-A RAID5 partition went haywire and I lost 1.2TB of data. I don&#39;t feel
-as bad as I did last year when I lost one tenth of the </p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/building-a-network/index.html</link>
-            <guid isPermaLink="false">8c665943-b6ff-4eb8-87db-0da2f3b92d6e</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
