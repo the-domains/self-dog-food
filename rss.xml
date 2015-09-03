@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 11:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 11:04:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FUTURE 1.1]]></title>
+            <description><![CDATA[<h1>FUTURE 1.1</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/future-11/index.html</link>
+            <guid isPermaLink="false">9e0cd1e1-6fcc-4934-a0cd-4e9050f1ed10</guid>
+            <pubDate>Thu, 03 Sep 2015 11:03:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two steps forward and only one back]]></title>
             <description><![CDATA[<h1>Two steps forward and only one back</h1>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/self-dog-food/software-in-2008/index.html</link>
             <guid isPermaLink="false">73c37752-74d6-49e1-a234-7ca0e39b7c67</guid>
             <pubDate>Thu, 03 Sep 2015 11:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Openmind and MindTrek, day 2]]></title>
-            <description><![CDATA[<h1>Openmind and MindTrek, day 2</h1>]]></description>
-            <link>https://thegrid.ai/self-dog-food/openmind-and-mindtrek-day-2/index.html</link>
-            <guid isPermaLink="false">76075f4b-e47b-4b79-bbd5-4656295200da</guid>
-            <pubDate>Thu, 03 Sep 2015 11:03:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
