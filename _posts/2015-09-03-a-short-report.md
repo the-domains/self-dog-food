@@ -11,8 +11,8 @@ time: '2007-09-26T15:37:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:51.060Z'
-dateModified: '2015-09-03T10:48:58.508Z'
+datePublished: '2015-09-03T11:03:15.730Z'
+dateModified: '2015-09-03T10:49:51.060Z'
 sourcePath: _posts/2015-09-03-a-short-report.md
 published: true
 tags:
