@@ -11,8 +11,8 @@ time: '2007-09-26T21:43:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:51.204Z'
-dateModified: '2015-09-03T10:48:07.814Z'
+datePublished: '2015-09-03T11:03:16.498Z'
+dateModified: '2015-09-03T10:49:51.204Z'
 sourcePath: _posts/2015-09-03-compiz-tips.md
 published: true
 tags:
