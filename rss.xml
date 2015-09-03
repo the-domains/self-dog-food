@@ -5,8 +5,17 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:37:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First aid for Dell D630 running Gutsy]]></title>
+            <description><![CDATA[<article><h1>First aid for Dell D630 running Gutsy</h1><p>{% include dogfood/title.md %}
+As mentioned earlier, I installed Gutsy Goatse on my Dell D630 
+laptop. I was a bit bothered with the soundcard not working anymo</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/first-aid-for-dell-d630-running-gutsy/index.html</link>
+            <guid isPermaLink="false">93c9a75d-e77d-4642-b8f6-eba1fa49923e</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Compiz tips]]></title>
             <description><![CDATA[<article><h1>Compiz tips</h1><p>{% include dogfood/title.md %}
