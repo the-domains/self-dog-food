@@ -3,10 +3,7 @@ isBasedOnUrl: 'content://x-text:e2b93db9-e759-439a-a2a9-e66bb2f9670b'
 inLanguage: null
 starred: false
 keywords: []
-description: |-
-  {% include dogfood/title.md %}
-  I have once again installed my laptop at work. I don&#39;t usually report
-  such incidents. This time it was way too easy to not to
+description: ''
 name: encrypting-ubuntu-someday-somehow
 layout: post
 title: 'Encrypting Ubuntu someday, somehow'
@@ -14,16 +11,18 @@ time: '2007-05-14T18:10:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:15.542Z'
-dateModified: '2015-09-03T10:32:12.155Z'
+datePublished: '2015-09-03T11:03:17.193Z'
+dateModified: '2015-09-03T10:58:24.779Z'
+sourcePath: _posts/2015-09-03-encrypting-ubuntu-someday-somehow.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-encrypting-ubuntu-someday-somehow.md
-published: true
 url: encrypting-ubuntu-someday-somehow/index.html
 _type: Article
 _context: 'http://schema.org'
