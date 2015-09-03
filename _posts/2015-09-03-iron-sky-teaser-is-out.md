@@ -11,8 +11,8 @@ time: '2008-05-07T11:09:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:49:50.681Z'
-dateModified: '2015-09-03T10:48:17.924Z'
+datePublished: '2015-09-03T11:03:14.463Z'
+dateModified: '2015-09-03T10:49:50.681Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-03-iron-sky-teaser-is-out.md
