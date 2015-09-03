@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:45:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why is it so hard?]]></title>
+            <description><![CDATA[<article><h1>Why is it so hard?</h1><p>I have been working with some VoIP solutions. I have been browsing my options and I always get into trouble with it. One solutio</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/why-is-it-so-hard/index.html</link>
+            <guid isPermaLink="false">32238efc-6ce7-4324-9901-44156025558e</guid>
+            <pubDate>Thu, 03 Sep 2015 10:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Organizing Thoughts Openly (part 1): Communityism]]></title>
             <description><![CDATA[<article><h1>Organizing Thoughts Openly (part 1): Communityism</h1><p>This is part one of a series of posts called &quot;Organizing ThoughtsOpenly&quot;. In this series I search for solutions and so</p></article>]]></description>
@@ -78,15 +85,6 @@ I have been having a real vacation for a change. I have tons of thing
 to do and some of them I have had to drop from my schedule</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/two-steps-forward-and-only-one-back/index.html</link>
             <guid isPermaLink="false">59f3a6f9-aeca-4d1d-9c96-d98f42e8970f</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Encrypting Ubuntu, the lazy man's way]]></title>
-            <description><![CDATA[<article><h1>Encrypting Ubuntu, the lazy man's way</h1><p>{% include dogfood/title.md %}
-I have been running encrypted Ubuntu for two years. I have tried as 
-many methods as I have made installations. I am still waitin</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/encrypting-ubuntu-the-lazy-mans-way/index.html</link>
-            <guid isPermaLink="false">969f94df-46b5-452d-a9c5-b22685eed422</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
         </item>
     </channel>
