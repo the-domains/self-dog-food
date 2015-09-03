@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:2c7e191a-75d1-4ce8-a8f5-60d1d0115185'
 inLanguage: null
 starred: false
 keywords: []
-description: "{% include dogfood/title.md %}\nAs I mentioned yesterday, I had the privilege to be in the same room\nwith an OLPC device. I also had the privilege to\ntouch one. "
+description: A look at the OLPC
 name: one-lovely-pc
 layout: post
 title: One Lovely PC
@@ -11,16 +11,18 @@ time: '2007-10-04T11:47:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:14.420Z'
-dateModified: '2015-09-03T10:33:45.089Z'
+datePublished: '2015-09-03T11:03:16.515Z'
+dateModified: '2015-09-03T10:52:58.686Z'
+sourcePath: _posts/2015-09-03-one-lovely-pc.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-one-lovely-pc.md
-published: true
 url: one-lovely-pc/index.html
 _type: Article
 _context: 'http://schema.org'
