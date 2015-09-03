@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 11:04:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 11:04:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Encrypting Ubuntu someday, somehow]]></title>
+            <description><![CDATA[<h1>Encrypting Ubuntu someday, somehow</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/encrypting-ubuntu-someday-somehow/index.html</link>
+            <guid isPermaLink="false">351d575d-f03e-41bb-820e-7b92cda9974e</guid>
+            <pubDate>Thu, 03 Sep 2015 11:03:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Outsourcing music]]></title>
             <description><![CDATA[<h1>Outsourcing music</h1>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/self-dog-food/openmind-and-mindtrek-day-1/index.html</link>
             <guid isPermaLink="false">7c1edba8-ae7d-45bc-b88a-f6f30137e47c</guid>
             <pubDate>Thu, 03 Sep 2015 11:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just surfin']]></title>
-            <description><![CDATA[<h1>Just surfin'</h1>]]></description>
-            <link>https://thegrid.ai/self-dog-food/just-surfin/index.html</link>
-            <guid isPermaLink="false">2d5df63d-72f7-4575-8405-d02d9b923ec5</guid>
-            <pubDate>Thu, 03 Sep 2015 11:03:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
