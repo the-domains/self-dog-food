@@ -5,8 +5,17 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:37:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FUTURE 1.1]]></title>
+            <description><![CDATA[<article><h1>FUTURE 1.1</h1><p>{% include dogfood/title.md %}
+I released a new version of my Ubuntu Encryption tool. I noticed some
+nasty issues when installing my new laptop. One known bug r</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/future-11/index.html</link>
+            <guid isPermaLink="false">9e0cd1e1-6fcc-4934-a0cd-4e9050f1ed10</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FUTURE 1.2]]></title>
             <description><![CDATA[<article><h1>FUTURE 1.2</h1><p>{% include dogfood/title.md %}
