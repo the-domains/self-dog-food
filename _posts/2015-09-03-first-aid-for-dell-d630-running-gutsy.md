@@ -3,7 +3,7 @@ isBasedOnUrl: 'content://x-text:490868d7-5cb1-4691-b081-3f37445c43b0'
 inLanguage: null
 starred: false
 keywords: []
-description: "{% include dogfood/title.md %}\nAs mentioned earlier, I installed Gutsy Goatse on my Dell D630 \nlaptop. I was a bit bothered with the soundcard not working anymo"
+description: ''
 name: running-gutsy
 layout: post
 title: First aid for Dell D630 running Gutsy
@@ -11,16 +11,18 @@ time: '2007-09-28T08:07:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:14.557Z'
-dateModified: '2015-09-03T10:34:39.369Z'
+datePublished: '2015-09-03T11:03:16.917Z'
+dateModified: '2015-09-03T10:52:06.818Z'
+sourcePath: _posts/2015-09-03-first-aid-for-dell-d630-running-gutsy.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-first-aid-for-dell-d630-running-gutsy.md
-published: true
 url: first-aid-for-dell-d630-running-gutsy/index.html
 _type: Article
 _context: 'http://schema.org'
