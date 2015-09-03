@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:44:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just surfin']]></title>
+            <description><![CDATA[<article><h1>Just surfin'</h1><p>While browsing the web to gather some ideas for my series of posts Ihave come across several interesting critters. There seem to</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/just-surfin/index.html</link>
+            <guid isPermaLink="false">2d5df63d-72f7-4575-8405-d02d9b923ec5</guid>
+            <pubDate>Thu, 03 Sep 2015 10:44:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Building a network]]></title>
             <description><![CDATA[<article><h1>Building a network</h1><p>{% include dogfood/title.md %}
@@ -89,15 +96,6 @@ CHANGES
 - Allow file systems other than JFS for orig</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/future-12/index.html</link>
             <guid isPermaLink="false">2de5f880-a7dc-4735-9b18-a97d4854c142</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First aid for Dell D630 running Gutsy]]></title>
-            <description><![CDATA[<article><h1>First aid for Dell D630 running Gutsy</h1><p>{% include dogfood/title.md %}
-As mentioned earlier, I installed Gutsy Goatse on my Dell D630 
-laptop. I was a bit bothered with the soundcard not working anymo</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/first-aid-for-dell-d630-running-gutsy/index.html</link>
-            <guid isPermaLink="false">93c9a75d-e77d-4642-b8f6-eba1fa49923e</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
         </item>
     </channel>
