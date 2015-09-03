@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:45:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Iron Sky teaser is out!]]></title>
+            <description><![CDATA[<article><h1>Iron Sky teaser is out!</h1><p>A teaser trailer for Iron Sky, the next film from the makers of Star Wreck, is out at [ironsky.net][1]. I loved it! The best par</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/iron-sky-teaser-is-out/index.html</link>
+            <guid isPermaLink="false">836ee21a-2f09-40a8-b29d-3d17ea90f5cf</guid>
+            <pubDate>Thu, 03 Sep 2015 10:44:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is it so hard?]]></title>
             <description><![CDATA[<article><h1>Why is it so hard?</h1><p>I have been working with some VoIP solutions. I have been browsing my options and I always get into trouble with it. One solutio</p></article>]]></description>
@@ -76,15 +83,6 @@ I have once again installed my laptop at work. I don&#39;t usually report
 such incidents. This time it was way too easy to not to</p></article>]]></description>
             <link>https://thegrid.ai/self-dog-food/encrypting-ubuntu-someday-somehow/index.html</link>
             <guid isPermaLink="false">351d575d-f03e-41bb-820e-7b92cda9974e</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two steps forward and only one back]]></title>
-            <description><![CDATA[<article><h1>Two steps forward and only one back</h1><p>{% include dogfood/title.md %}
-I have been having a real vacation for a change. I have tons of thing 
-to do and some of them I have had to drop from my schedule</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/two-steps-forward-and-only-one-back/index.html</link>
-            <guid isPermaLink="false">59f3a6f9-aeca-4d1d-9c96-d98f42e8970f</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
         </item>
     </channel>
