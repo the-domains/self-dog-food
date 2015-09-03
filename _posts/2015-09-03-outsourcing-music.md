@@ -3,10 +3,7 @@ isBasedOnUrl: 'content://x-text:ae9671f4-a3b7-4cc5-aa23-3909db2feb28'
 inLanguage: null
 starred: false
 keywords: []
-description: |-
-  {% include dogfood/title.md %}
-  I am having a day off from everything. These are the days I want to
-  listen to music all the time and take it easy. Yesterday I ne
+description: ''
 name: outsourcing-music
 layout: post
 title: Outsourcing music
@@ -14,16 +11,18 @@ time: '2007-05-17T14:33:00.000Z'
 categories:
   - earlypenguin
 author: []
-datePublished: '2015-09-03T10:36:16.169Z'
-dateModified: '2015-09-03T10:32:03.741Z'
+datePublished: '2015-09-03T11:03:17.197Z'
+dateModified: '2015-09-03T11:00:03.982Z'
+sourcePath: _posts/2015-09-03-outsourcing-music.md
+published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: x-text
   domain: x-text
   url: null
   favicon: null
-sourcePath: _posts/2015-09-03-outsourcing-music.md
-published: true
 url: outsourcing-music/index.html
 _type: Article
 _context: 'http://schema.org'
