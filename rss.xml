@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 11:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 11:04:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[That was utterly unuseful, sorry]]></title>
+            <description><![CDATA[<h1>That was utterly unuseful, sorry</h1>]]></description>
+            <link>https://thegrid.ai/self-dog-food/that-was-utterly-unuseful-sorry/index.html</link>
+            <guid isPermaLink="false">099f88cd-b7cb-42e2-ac3a-3994811a408d</guid>
+            <pubDate>Thu, 03 Sep 2015 11:03:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[iDontCare]]></title>
             <description><![CDATA[<h1>iDontCare</h1>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<h1>Comparing GPS software</h1>]]></description>
             <link>https://thegrid.ai/self-dog-food/comparing-gps-software/index.html</link>
             <guid isPermaLink="false">7ff1c0e9-b81a-49f4-8d5a-e7e14e20866e</guid>
-            <pubDate>Thu, 03 Sep 2015 11:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iron Sky teaser is out!]]></title>
-            <description><![CDATA[<h1>Iron Sky teaser is out!</h1>]]></description>
-            <link>https://thegrid.ai/self-dog-food/iron-sky-teaser-is-out/index.html</link>
-            <guid isPermaLink="false">836ee21a-2f09-40a8-b29d-3d17ea90f5cf</guid>
             <pubDate>Thu, 03 Sep 2015 11:03:14 GMT</pubDate>
         </item>
     </channel>
