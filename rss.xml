@@ -8,6 +8,16 @@
         <lastBuildDate>Thu, 03 Sep 2015 10:36:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Compiz tips]]></title>
+            <description><![CDATA[<article><h1>Compiz tips</h1><p>{% include dogfood/title.md %}
+As I mentioned in my earlier post, I fought a battle with Compiz
+today. I think some notices might be useful for others as well.
+</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/compiz-tips/index.html</link>
+            <guid isPermaLink="false">4f19289b-5fb9-485f-a812-ab0de594c813</guid>
+            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[That was utterly unuseful, sorry]]></title>
             <description><![CDATA[<article><h1>That was utterly unuseful, sorry</h1><p>{% include dogfood/title.md %}
 I noticed that the rc1 of the package works much better with the Dell 
