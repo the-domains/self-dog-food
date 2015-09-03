@@ -5,8 +5,15 @@
         <description><![CDATA[self.dog.food]]></description>
         <link>https://thegrid.ai/self-dog-food/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Sep 2015 10:44:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2015 10:44:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/self-dog-food/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Going with the flow]]></title>
+            <description><![CDATA[<article><h1>Going with the flow</h1><p>I thought I'd never go for a meme in this blog, but...herttoniemi:ferrix ~2 $ history|awk '{a[$2]++ } END{for(i in a){print</p></article>]]></description>
+            <link>https://thegrid.ai/self-dog-food/going-with-the-flow/index.html</link>
+            <guid isPermaLink="false">a891cd23-a455-41a0-943a-2deb23060cda</guid>
+            <pubDate>Thu, 03 Sep 2015 10:44:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just surfin']]></title>
             <description><![CDATA[<article><h1>Just surfin'</h1><p>While browsing the web to gather some ideas for my series of posts Ihave come across several interesting critters. There seem to</p></article>]]></description>
@@ -85,18 +92,6 @@ nasty issues when installing my new laptop. One known bug r</p></article>]]></de
             <link>https://thegrid.ai/self-dog-food/future-11/index.html</link>
             <guid isPermaLink="false">9e0cd1e1-6fcc-4934-a0cd-4e9050f1ed10</guid>
             <pubDate>Thu, 03 Sep 2015 10:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FUTURE 1.2]]></title>
-            <description><![CDATA[<article><h1>FUTURE 1.2</h1><p>{% include dogfood/title.md %}
-I didn&#39;t have the heart not to fix a known bug. Here you go.
-CHANGES
-
-1.1 to 1.2
-- Allow file systems other than JFS for orig</p></article>]]></description>
-            <link>https://thegrid.ai/self-dog-food/future-12/index.html</link>
-            <guid isPermaLink="false">2de5f880-a7dc-4735-9b18-a97d4854c142</guid>
-            <pubDate>Thu, 03 Sep 2015 10:36:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
