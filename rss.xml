@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[self.dog.food]]></title>
+        <description><![CDATA[self.dog.food]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Sep 2015 17:56:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Henkimaailman juttuja]]></title>
+            <description><![CDATA[<article><h1></h1><p>Mitkä mittarit pitää hankkia?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52d6f67-c2f4-4f84-893a-f6588fdf0d56.jpg"></article>]]></description>
+            <link>undefinedhenkimaailman-juttuja/index.html</link>
+            <guid isPermaLink="false">7199fde7-f142-4899-837c-c32c9169705a</guid>
+            <pubDate>Wed, 23 Sep 2015 17:56:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
